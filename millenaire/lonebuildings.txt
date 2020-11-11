@@ -1,0 +1,16 @@
+Meunier solitaire;167/65/140;lonemill;norman;
+Asiguk Tupiq;-1126/67/-360;lonedislogcabin2;inuits;
+Moulin abandonné;-273/67/-276;abandonedmill;norman;
+Bûcheron solitaire;576/66/581;lonelumberman;norman;
+Chota Mandir;-362/91/586;loneshrine;indian;
+Sikuliaq;-925/74/338;lake2;inuits;
+Asiguk Tupiq;-614/68/-904;lonedislogcabin2;inuits;
+Repère de bandits;378/71/-1018;banditlair;norman;
+Inuksuit;984/74/-777;inuksuit;inuits;
+Abbaye Notre-Dame;955/75/-170;loneabbey;norman;
+Chota Mandir;1096/70/888;loneshrine;indian;
+Moulin abandonné;-1022/74/1055;abandonedmill;norman;
+Asiguk Iglu;-1213/67/-999;lonedisiglu;inuits;
+Meunier solitaire;-398/94/1278;lonemill;norman;
+Nanuk Mitjuktipa;1544/85/-1105;polarbearcave;inuits;
+Yanlız Mayın;436/67/1493;seljuk_lonemine;seljuk;

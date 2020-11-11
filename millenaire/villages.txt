@@ -1,0 +1,15 @@
+Le Détroit-l'océan;655/72/-121;agricole;norman;
+Chicanna;-67/75/675;agriculture;mayan;
+Akita;-239/77/-647;gunji;japanese;
+Karok;-845/71/-68;farmingvillage;inuits;
+Sakalar-Çölde;779/71/805;agriculture_small_seljuks;seljuk;
+Karooren;-827/98/808;artisanalvillage;inuits;
+Hinonoeino;-918/69/-806;artisanalvillage;inuits;
+Paşaköy-Çölde;1119/69/278;military_village_seljuks;seljuk;
+Hinonoeino;-1326/66/-1283;religiousvillage;inuits;
+Ho-Chunk;-586/64/-1359;religiousvillage;inuits;
+Şahmurlu-Gölde;895/71/1407;agriculture_small_seljuks;seljuk;
+Sainte-Marie-les-mines;-1066/70/1364;artisans;norman;
+Kadohadacho;-1381/67/407;farmingvillage;inuits;
+Hualapai;-1410/64/-259;artisanalvillage;inuits;
+Kumagaya;1472/79/-209;trading;japanese;
