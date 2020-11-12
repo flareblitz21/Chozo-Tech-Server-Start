@@ -2,4 +2,7 @@ player_name=Hakuren21
 donation_mode=false
 village_diplomacy=-918/69/-806,5
 village_diplomacy=895/71/1407,5
+village_diplomacy=655/72/-121,5
 village_diplomacy=1119/69/278,5
+village_diplomacy=-827/98/808,5
+village_diplomacy=-67/75/675,5
